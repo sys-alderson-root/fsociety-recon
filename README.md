@@ -15,3 +15,8 @@ It only queries public APIs and databases. It does NOT scan, attack, or access p
 No external libraries required. Just run:
 ```bash
 python recon.py
+
+---
+## 👨‍💻 Auteur
+Créé par **sys-alderson-root** 
+"Control is an illusion."
